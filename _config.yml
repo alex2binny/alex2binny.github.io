@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Intraspecto
 header-img: img/home-bg.png
 email: binnylewis@gmail.com
 copyright_name: alex2binny
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Introspective thoughts about the world, code, family and more.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: alex2binny
 github_username:  alex2binny
