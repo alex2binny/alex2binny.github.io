@@ -12,4 +12,5 @@ It abstracts many of the necessary code for the design needs only to be installe
 Although not super complex, this has been helpful in introducing me to grunt, LESS/SASS and more. So here is a bit about what I learned and 
 how you can get started on your own.
 
-<a href="https://scotch.io/tutorials/a-simple-guide-to-getting-started-with-grunt" >~~~ Currently reading this blog post ~~~</a>
+[![]~~~ Currently reading this blog post ~~~](https://scotch.io/tutorials/a-simple-guide-to-getting-started-with-grunt)
+
